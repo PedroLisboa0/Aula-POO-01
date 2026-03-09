@@ -12,12 +12,9 @@ Este projeto contém exemplos e exercícios práticos de conceitos fundamentais 
 
 ## Objetivo
 
-Aprender e praticar os principais conceitos de POO, como:
-- Classes e Objetos
-- Encapsulamento
-- Herança
-- Polimorfismo
-- Abstração
+- Descrever uma cadeira em lógica de programação orientada a objeto.
+- Com atributos para altura, quantidade de pés e material.
+- Com métodos para elevar a altura e mudar o material.
 
 ## Como Usar
 
